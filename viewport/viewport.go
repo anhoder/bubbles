@@ -4,7 +4,7 @@ import (
 	"math"
 	"strings"
 
-	tea "github.com/charmbracelet/bubbletea"
+	tea "github.com/anhoder/bubbletea"
 )
 
 const spacebar = " "

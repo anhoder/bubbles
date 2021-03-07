@@ -7,7 +7,7 @@ import (
 	"unicode"
 
 	"github.com/atotto/clipboard"
-	tea "github.com/charmbracelet/bubbletea"
+	tea "github.com/anhoder/bubbletea"
 	rw "github.com/mattn/go-runewidth"
 	"github.com/muesli/termenv"
 )

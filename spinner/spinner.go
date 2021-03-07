@@ -4,7 +4,7 @@ import (
 	"strings"
 	"time"
 
-	tea "github.com/charmbracelet/bubbletea"
+	tea "github.com/anhoder/bubbletea"
 	"github.com/muesli/reflow/ansi"
 	"github.com/muesli/termenv"
 )
